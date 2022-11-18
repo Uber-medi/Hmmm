@@ -1,0 +1,20 @@
+fetch("https://cms.quill.org/questions/878cff87-a12d-4653-bad4-8c41c3b4e2f9/responses", {
+  "headers": {
+    "accept": "application/json",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/json",
+    "sec-ch-ua": "\"Google Chrome\";v=\"107\", \"Chromium\";v=\"107\", \"Not=A?Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"macOS\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-site",
+    "x-csrf-token": "8A93RugRbdKz5RFl/vNypbovM3SfxFaCiIsv2tRU/atzO7GufmRAaILdWEPd6OWQul6xlW6YNfYFT5AhAJ930Q=="
+  },
+  "referrer": "https://www.quill.org/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "include"
+});
